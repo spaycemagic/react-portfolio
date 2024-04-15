@@ -36,7 +36,7 @@ const Sidebar = () => (
             <li>
                 <a target="_blank"
                     rel="noreferrer"
-                    href="https://www.linkedin.com/in/joseph-avellina-611582191/"
+                    href="https://github.com/spaycemagic?tab=repositories"
                 >
                     <FontAwesomeIcon icon={faGithub} />
                 </a>
