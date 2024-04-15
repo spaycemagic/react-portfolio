@@ -24,7 +24,7 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                    Hi im Jo Avellina! As developer, my main is to continually learn and my skills.
+                    Hi im Jo Avellina! As a Software Developer, my main goal is to continually learn and hone my skills.
                      I thrive on solving complex problems and finding efficient solutions through.
                       I enjoy staying up-to-date with the technologies and trends in the industry, 
                       as it allows me to broaden my knowledge and apply it to my work, 
@@ -39,10 +39,30 @@ const Contact = () => {
                         <form>
                             <ul>
                                 <li className='half'>
-                                    <input type="text" name="name" placeholder="Name" required/>
+                                    <input 
+                                        type="text" 
+                                        name="name" 
+                                        placeholder="Name" 
+                                        required
+                                    />
                                 </li>
                                 <li className='half'>
-                                    <input type="email" name="email" placeholder="Email" required/>
+                                    <input 
+                                        type="email" 
+                                        name="email" 
+                                        placeholder="Email" 
+                                        required
+                                    />
+                                </li>
+                                <li>
+                                    <textarea 
+                                        placeholder="Message" 
+                                        name="message" 
+                                        required 
+                                    ></textarea>
+                                    <li>
+                                        <input type="submit" className="flat-button" value="SEND" />
+                                    </li>
                                 </li>
                             </ul>
                         </form>
