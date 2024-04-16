@@ -33,6 +33,7 @@ const About = () => {
             />
           </h1>
           <p>
+<<<<<<< HEAD
             I'm a very ambitious front-end developer looking for a role in an
             established IT company with the opportunity to work with the latest
             technologies on challenging and diverse projects.
@@ -45,6 +46,19 @@ const About = () => {
             If I need to define myself in one sentence that would be a family
             person, father of a beautiful daughter, a sports fanatic,
             photography enthusiast, and tech-obsessed!!!
+=======
+            Hello, I'm Jo Avellina, a passionate computer science student specializing in web development and AI. 
+            I have a diverse skill set that encompasses PHP, Python, HTML, CSS, and JavaScript, along with frameworks such as React, Angular, and Laravel.
+          </p>
+          <p align="LEFT">
+          Alongside web development, I have a keen interest in the exciting field of AI. 
+            I have experience with AI technologies, including machine learning and natural language processing. 
+            I've used frameworks like TensorFlow and PyTorch to develop AI models for various applications.
+          </p>
+          <p>
+            In the realm of web development, I'm proficient in creating intelligent and personalized user experiences by integrating AI technologies. 
+            Whether it's implementing recommendation systems, chatbots, or predictive analytics, I enjoy leveraging AI to enhance the functionality and efficiency of web applications.
+>>>>>>> ef01bf4048bc9cb0ae80e2ba951d3299f0774719
           </p>
         </div>
 
